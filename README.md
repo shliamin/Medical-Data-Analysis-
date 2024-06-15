@@ -25,13 +25,13 @@ pip install pandas matplotlib scipy notebook
    If the project is hosted on a version control system like GitHub, you can clone the repository. Otherwise, download the project files.
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/shliamin/Python-Medical-Data-Analysis.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd <project-directory>
+   cd Python-Medical-Data-Analysis
    ```
 
 3. **Ensure the `students.csv` file is in the project directory.**
