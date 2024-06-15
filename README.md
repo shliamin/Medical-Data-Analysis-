@@ -75,6 +75,3 @@ Below are examples of the visualizations and analysis you will generate:
 - Relationship between age and year of study.
 - Results of the t-test between students with and without anxiety.
 
-## Contact
-
-If you have any questions or issues, please contact [your-email@example.com].
